@@ -30,12 +30,6 @@ News Articles Dataset: Contains 24,000 articles from CNBC, Forbes, Business Insi
 ESG Definitions Dataset: Definitions from the Sustainability Accounting Standards Board (SASB) to classify ESG topics.
 S&P 500 Companies Dataset: Maps companies to their respective sectors and industries.
 
-# Repository Structure
-
-data/: Contains the datasets used in the analyses.
-notebooks/: Jupyter notebooks illustrating the detailed process of our analysis.
-output/: Output files including processed datasets and figures generated from the analysis.
-
 ## Key Findings
 
 Significant differences in ESG topic coverage among the analyzed news providers.
