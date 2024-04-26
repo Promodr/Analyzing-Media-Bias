@@ -2,7 +2,9 @@
 
 # Project Overview
 
-# This project explores media biases in the coverage of Environmental, Social, and Governance (ESG) topics by analyzing articles from major news outlets using natural language processing (NLP) techniques. The aim is to uncover potential biases or specializations in ESG reporting across different media platforms.
+In the rapidly evolving landscape of corporate responsibility, Environmental, Social, and Governance (ESG) criteria have become central to business practices, investor decisions, and public policy. As companies integrate ESG considerations into their strategic frameworks, the media plays a pivotal role in shaping public and investor perceptions by reporting on these issues. However, the nature of this coverage can significantly influence stakeholder views and decisions, making it crucial to understand media biases and reporting patterns.
+
+This research project, "Analyzing Media Bias in ESG Coverage: A Semantic Similarity Approach," aims to dissect the coverage patterns of ESG topics across prominent news outlets to detect potential biases or specializations. By scrutinizing how different media platforms report on ESG themes, this study seeks to illuminate the subtleties of media influence on public and corporate engagement with sustainability issues.
 
 # Research Question
 
